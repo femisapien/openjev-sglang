@@ -1,5 +1,8 @@
 # openjev-sglang
 
+> [!NOTE]
+> This was an early experiment to reproduce Jev after it came out. SGLang is now shipping with a native decisions endpoint implemented in the same way - please use the new API instead. https://docs.sglang.io/docs/supported-models/decision_models#decision-models
+
 A server implementing the [TypeSafe/Jev HTTP API](https://docs.typesafe.ai/api)
 with **Qwen3.6-35B-A3B on SGLang**.
 
